@@ -1,4 +1,5 @@
-#CNN on CIFER-10
+#CNN on CIFER-10:
+
 This repository contains a Convolutional Neural Network (CNN) model implemented in PyTorch to classify images from the CIFAR-10 dataset. The model is trained and evaluated on the dataset using basic computer vision and deep learning techniques.
 The architecture includes:
 
